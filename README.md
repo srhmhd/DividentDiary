@@ -45,12 +45,12 @@ It provides accurate, clean, and mobile-friendly UI with full calculations and o
 <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/03bd6f68-85aa-48c2-9a6b-78cb0e3fc8c9" />
 
 # Interface:
-<img width="427" height="821" alt="interface 1" src="https://github.com/user-attachments/assets/5cbcde96-0e69-427d-a049 f8a045fc5cb0" />
-
+<img width="427" height="821" alt="interface 1" src="https://github.com/user-attachments/assets/2b1d327e-389b-489d-943b-223c6b51dc8a" />
+<br>
 <img width="398" height="827" alt="int2" src="https://github.com/user-attachments/assets/bed79d94-b9c9-4058-8d3a-6a121a328dc1"/>
-
+<br>
 <img width="425" height="836" alt="int3" src="https://github.com/user-attachments/assets/e6760d95-5c69-4977-bac9-63a983f9f8b2"/>
-
+<br>
 <img width="407" height="830" alt="int4" src="https://github.com/user-attachments/assets/468215dd-4c9d-4b81-aff8-016ee46936e3"/>
 
 
